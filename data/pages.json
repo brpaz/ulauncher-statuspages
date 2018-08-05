@@ -1,0 +1,56 @@
+[{
+        "label": "GitHub",
+        "url": "https://status.github.com",
+        "icon": "images/github.png"
+    },
+    {
+        "label": "DigitalOcean",
+        "url": "https://status.digitalocean.com",
+        "icon": "images/digitalocean.png"
+    },
+    {
+        "label": "TravisCI",
+        "url": "https://www.traviscistatus.com/",
+        "icon": "images/travis.png"
+    },
+    {
+        "label": "Heroku",
+        "url": "https://status.heroku.com/",
+        "icon": "images/heroku.png"
+    },
+    {
+        "label": "Netlify",
+        "url": "https://netlifystatus.com/",
+        "icon": "images/netlify.png"
+    },
+    {
+        "label": "Amazon Web Services",
+        "url": "https://status.aws.amazon.com/",
+        "icon": "images/amazon-web-services.png"
+    },
+    {
+        "label": "Google Cloud",
+        "url": "https://status.cloud.google.com/",
+        "icon": "images/google-cloud.png"
+    },
+    {
+        "label": "GitLab",
+        "url": "https://status.gitlab.com/",
+        "icon": "images/gitlab.png"
+    },
+    {
+        "label": "Sendgrid",
+        "url": "http://status.sendgrid.com/",
+        "icon": "images/sendgrid.png"
+    },
+    {
+        "label": "Datadog",
+        "url": "https://status.datadoghq.com/",
+        "icon": "images/datadog.png"
+    },
+    {
+        "label": "NewRelic",
+        "url": "https://status.newrelic.com/",
+        "icon": "images/newrelic.png"
+    }
+]
