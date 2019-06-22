@@ -1,18 +1,18 @@
 {
-    "manifest_version": "2",
-    "api_version": "1",
-    "name": "ulauncher-statuspages",
-    "description": "Ulauncher Extension that provides shortcuts for accessing status pages for popular services like GitHub, AWS and more",
-    "developer_name": "Bruno Paz",
-    "icon": "images/icon.png",
-    "options": {
-        "query_debounce": 0.2
-    },
-    "preferences": [{
-        "id": "demo_kw",
-        "type": "keyword",
-        "name": "Status Pages",
-        "description": "Displays shortcuts for status pages for popular services",
-        "default_value": "status"
-    }]
+  "required_api_version": "^2.0.0",
+  "name": "Status Pages",
+  "description": "Provides quick access for status pages of popular services like GitHub, AWS and more",
+  "developer_name": "Bruno Paz",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.2
+  },
+  "preferences": [
+    {
+      "id": "demo_kw",
+      "type": "keyword",
+      "name": "Status Pages",
+      "default_value": "status"
+    }
+  ]
 }

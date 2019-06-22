@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+KeywordQueryEventListener	../main.py	/^class KeywordQueryEventListener(EventListener):$/;"	kind:class	line:53
+LOGGER	../main.py	/^LOGGER = logging.getLogger(__name__)$/;"	kind:variable	line:15
+StatusPagesExtension	../main.py	/^class StatusPagesExtension(Extension):$/;"	kind:class	line:18
+__init__	../main.py	/^    def __init__(self):$/;"	kind:member	line:21
+load_pages	../main.py	/^    def load_pages(self):$/;"	kind:member	line:32
+main.py	../main.py	1;"	kind:file	line:1
+on_event	../main.py	/^    def on_event(self, event, extension):$/;"	kind:member	line:56
