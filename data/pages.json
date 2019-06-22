@@ -19,6 +19,11 @@
         "icon": "images/heroku.png"
     },
     {
+        "label": "Discord",
+        "url": "https://status.discordapp.com/",
+        "icon": "images/discord.png"
+    },
+    {
         "label": "Netlify",
         "url": "https://netlifystatus.com/",
         "icon": "images/netlify.png"
