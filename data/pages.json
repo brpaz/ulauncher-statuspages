@@ -1,4 +1,5 @@
-[{
+[
+    {
         "label": "GitHub",
         "url": "https://status.github.com",
         "icon": "images/github.png"
@@ -57,5 +58,40 @@
         "label": "NewRelic",
         "url": "https://status.newrelic.com/",
         "icon": "images/newrelic.png"
+    },
+    {
+        "label": "Adobe",
+        "url": "https://status.adobe.com/",
+        "icon": "images/adobe.png"
+    },
+    {
+        "label": "Atlassian",
+        "url": "https://status.atlassian.com/",
+        "icon": "images/atlassian.png"
+    },
+    {
+        "label": "Apple",
+        "url": "https://www.apple.com/support/systemstatus/",
+        "icon": "images/apple.png"
+    },
+    {
+        "label": "Apple Developer",
+        "url": "https://developer.apple.com/system-status/",
+        "icon": "images/apple.png"
+    },
+    {
+        "label": "Cloudflare",
+        "url": "https://www.cloudflarestatus.com/",
+        "icon": "images/cloudflare.png"
+    },
+    {
+        "label": "Azure",
+        "url": "https://status.azure.com/",
+        "icon": "images/azure.png"
+    },
+    {
+        "label": "Oracle Cloud",
+        "url": "https://ocistatus.oraclecloud.com/",
+        "icon": "images/oracle.png"
     }
 ]
