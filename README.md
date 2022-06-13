@@ -14,7 +14,7 @@
 
 * [ulauncher 5](https://ulauncher.io/)
 * Python 3
-*
+
 ## Install
 
 Open ulauncher preferences window -> extensions -> add extension and paste the following url:
