@@ -41,6 +41,13 @@ The following services are included by default:
 * Sendgrid
 * TravisCI
 * Discord
+* Adobe
+* Atlassian
+* Apple
+* Apple Developer
+* Cloudflare
+* Azure
+* Oracle Cloud
 
 Feel free to create a PR to add more services.
 
